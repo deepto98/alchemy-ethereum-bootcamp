@@ -12,9 +12,10 @@
    *  Fast to Compute - It must be a quick calculation for a computer
    *  Collision-resistant - The chance of a collision should be infinitesimally small
 
+[Assignment](Exercises/1.CryptographicHashes)
 ## Resources
 1. [Online SHA256 Tool](https://emn178.github.io/online-tools/sha256)
 2. [Boot.dev SHA 256 article](https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/)
 3. [Go Implementation article](https://t-i-show.medium.com/go-implement-sha256-encryption-and-hashing-in-go-77ab85c2560c)
-4. [Nice video by RedBlockBlue] (https://www.youtube.com/watch?v=orIgy2MjqrA&ab_channel=RedBlockBlue)
-5. [Very Comprehensive Exmplanation] (https://www.youtube.com/watch?v=9xs4eWOAG7Y&ab_channel=Xiuminseokie21)
+4. [Nice video by RedBlockBlue](https://www.youtube.com/watch?v=orIgy2MjqrA&ab_channel=RedBlockBlue)
+5. [Very Comprehensive Explanation](https://www.youtube.com/watch?v=9xs4eWOAG7Y&ab_channel=Xiuminseokie21)
